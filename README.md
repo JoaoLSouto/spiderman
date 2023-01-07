@@ -1,1 +1,1 @@
-# Spider-man Multiverse: Website with HTML and CSS
+# Spider-man Multiverse: Website with JavaScript, CSS and HTML  
